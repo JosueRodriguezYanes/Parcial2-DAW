@@ -1,0 +1,6 @@
+libcode\webapp\entidades\Alumno.class
+libcode\webapp\controladores\IndexController.class
+libcode\webapp\negocio\DataService.class
+libcode\webapp\resources\App.class
+libcode\webapp\entidades\Materia.class
+libcode\webapp\resources\Recurso.class
